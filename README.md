@@ -1,2 +1,2 @@
 # sana-s-app
-Developed online food delivery webpage using html, css, bootstrap
+Developed online food delivery website using html, css, bootstrap
